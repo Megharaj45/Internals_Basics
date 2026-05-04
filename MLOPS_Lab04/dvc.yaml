@@ -1,6 +1,0 @@
-  experiment:
-    cmd: python -m src.experiment
-    deps:
-      - src/experiment.py
-      - models/rating_features.pkl
-      - data/processed/ratings_clean.csv
